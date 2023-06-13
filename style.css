@@ -1,0 +1,114 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat&display=swap");
+
+body {
+  background-color: #434337;
+  top: 0;
+  bottom: 0;
+}
+
+.home_logo {
+  width: 192px;
+  height: 96;
+  border-radius: 10px;
+  background-color: #282820;
+  position: absolute;
+  left: 358px;
+  top: 16px;
+}
+
+nav {
+  background-color: #bdb48b;
+  border-radius: 10px;
+  width: 896px;
+  height: 72px;
+  margin-top: 28px;
+}
+
+.nav_button-left {
+  background-color: #282820;
+  border-radius: 10px;
+  width: 152px;
+  height: 56px;
+  margin: 8px;
+  float: left;
+}
+
+.nav_button-right {
+  background-color: #282820;
+  border-radius: 10px;
+  width: 152px;
+  height: 56px;
+  margin: 8px;
+  float: right;
+}
+
+.nav_button_text {
+  text-align: center;
+  display: center;
+  text-decoration-color: #bdb48b;
+  color: #bdb48b;
+  text-decoration-line: none;
+  font-family: "Montserrat", sans-serif;
+  font-size: 16px;
+}
+
+.imagen_principal {
+  width: 896px;
+  height: 496px;
+  overflow: hidden;
+  border-radius: 10px;
+  margin-top: 28px;
+  margin-bottom: 16px;
+}
+
+.container_trailer {
+  width: 896px;
+  height: 304px;
+}
+
+.descripcion_trailer {
+  background-color: #282820;
+  width: 320px;
+  height: 304px;
+  margin-bottom: 16px;
+  border-radius: 10px;
+  float: left;
+}
+
+.descripcion_trailer_text {
+  font-family: "Montserrat", sans-serif;
+  font-size: 16px;
+  color: #bdb48b;
+  text-align: center;
+  line-height: 2.4;
+  margin: 16px;
+  float: left;
+}
+
+.video_trailer {
+  float: right;
+}
+
+.footer {
+  background-color: #bdb48b;
+  width: 896px;
+  height: 48px;
+  border-radius: 10px;
+  margin-top: 16px;
+}
+
+.footer_left {
+  font-family: "Montserrat", sans-serif;
+  color: #282820;
+  font-size: 16px;
+  float: left;
+  margin-left: 16px;
+}
+
+.footer_right {
+  font-family: "Montserrat", sans-serif;
+  color: #282820;
+  font-size: 16px;
+  float: right;
+  margin-right: 16px;
+}
